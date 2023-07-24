@@ -6,7 +6,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h3>Link Pagina Web</h3>
-<a href="" target="_blank">Link Pagina web</a>
+<a href="https://dayananarvaez.github.io/taller-9-full-stack/" target="_blank">Link Pagina web</a>
 
 <h2> Punto 1: Link figma</h2>
 
@@ -16,3 +16,13 @@
 <img src="./public/imagenes/Html.png">
 <h2> Punto 3: CSS</h2>
 <img src="./public/imagenes/CSS.png">
+<h2> Punto 4: titulos</h2>
+<img src="./public/imagenes/titulos.png">
+<h2> Punto 5: texto</h2>
+<img src="./public/imagenes/texto.png">
+<h2> Punto 6: letras</h2>
+<img src="./public/imagenes/colores.png">
+<h2> Punto 7-8: menu</h2>
+<img src="./public/imagenes/menu.png">
+<h2> Punto 9: tabla</h2>
+<img src="./public/imagenes/tabla.png">

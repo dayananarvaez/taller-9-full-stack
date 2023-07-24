@@ -1,0 +1,15 @@
+.xul{
+	list-style-type:none; 
+	margin:20px;
+	padding:20px;
+	overflow:hidden;
+	background-color:#D6AFDC;
+}
+.xli{float:left;} 
+.xli a{
+	color:white;
+	text-align:center;
+	padding:10px;
+	text-decoration:none; 
+}
+.xli a:hover{background-color:blue} 

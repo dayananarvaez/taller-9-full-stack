@@ -1,0 +1,17 @@
+
+h5{
+    display: flex;
+    margin: 0px 600px;
+    font-family: 'Jost';
+    font-size: 50px;
+    align-items: center;
+    color: #cf0707;
+}
+
+h4{
+    font-family: 'Jost';
+    font-size: 50px;
+    margin: 0px 600px;
+    align-items: center;
+    color: #070acf;
+}
