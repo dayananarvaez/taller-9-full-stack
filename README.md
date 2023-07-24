@@ -18,11 +18,11 @@
 <img src="./public/imagenes/CSS.png">
 <h2> Punto 4: titulos</h2>
 <img src="./public/imagenes/titulos.png">
-<h2> Punto 5: texto</h2>
+<h2> Punto 5: Estilos de texto</h2>
 <img src="./public/imagenes/texto.png">
-<h2> Punto 6: letras</h2>
+<h2> Punto 6: Enlaces</h2>
 <img src="./public/imagenes/colores.png">
-<h2> Punto 7-8: menu</h2>
+<h2> Punto 7-8: Navegación</h2>
 <img src="./public/imagenes/menu.png">
-<h2> Punto 9: tabla</h2>
+<h2> Punto 9: Tablas</h2>
 <img src="./public/imagenes/tabla.png">
